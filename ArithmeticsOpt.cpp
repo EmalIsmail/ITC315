@@ -1,12 +1,12 @@
-int sum(int a, int b)
+int sum1(int a, int b)
 return a+b;
 
-int div(int a,int b)
+int div1(int a,int b)
   return a/b;
-int mul(int a,int b)
+int mul1(int a,int b)
   return a*b;
 
-int power(int a,int b)
+int power1(int a,int b)
   return power(a,b)
   
 
